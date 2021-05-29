@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CodeWortGenerator">
+    <output-path>$PROJECT_DIR$/out/artifacts/CodeWortGenerator</output-path>
+    <root id="archive" name="CodeWortGenerator.jar">
+      <element id="module-output" name="CodeWortGenerator" />
+    </root>
+  </artifact>
+</component>
